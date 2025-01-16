@@ -1,9 +1,0 @@
-opencv-python
-torch
-mysql-connector-python
-numpy
-pillow
-facenet-pytorch
-torchvision
-scikit-learn
-pyzbar
