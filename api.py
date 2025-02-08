@@ -17,7 +17,7 @@ model = InceptionResnetV1(pretrained='vggface2').eval()
 
 # Database setup
 db_config = {
-    "host": "127.0.0.1",
+    "host": "192.168.1.2",
     "user": "root",
     "password": "highend@009",
     "database": "libary"
